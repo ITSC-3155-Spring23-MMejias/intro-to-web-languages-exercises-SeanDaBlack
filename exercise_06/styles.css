@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+
+#main-title {
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.content {
+
+    margin-bottom: 12px;
+
+
+}
